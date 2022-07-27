@@ -1,0 +1,79 @@
+CONFIG:
+  [
+    {
+      'id': 1,
+      'name': '01.Background',
+      'directory': '01.Background',
+      'required': True,
+      'rarity_weights': None,
+    },
+    {
+      'id': 2,
+      'name': '02.Shell',
+      'directory': '02.Shell',
+      'required': True,
+      'rarity_weights': None,
+    },
+    {
+      'id': 3,
+      'name': '03.Body',
+      'directory': '03.Body',
+      'required': True,
+      'rarity_weights': None,
+    },
+    {
+      'id': 4,
+      'name': '04.Facial Features',
+      'directory': '04.Facial Features',
+      'required': True,
+      'rarity_weights': None,
+    },
+    {
+      'id': 5,
+      'name': '05.Clothes',
+      'directory': '05.Clothes',
+
+      'required': True,
+      'rarity_weights': None,
+    },
+    {
+      'id': 6,
+      'name': '06.Accessory',
+      'directory': '06.Accessory',
+      'required': False,
+      'rarity_weights': random,
+    },
+    {
+      'id': 7,
+      'name': '07.Facial Accessory',
+      'directory': '07.Facial Accessory',
+      'required': False,
+      'rarity_weights': random,
+    },
+    {
+      'id': 8,
+      'name': '08.Headwear',
+      'directory': '08.Headwear',
+      'required': False,
+      'rarity_weights': random,
+    },
+    {
+      'id': 9,
+      'name': '09.Facial Accessory',
+      'directory': '09.Facial Accessory',
+      'required': True,
+      'rarity_weights': None,
+    },
+    {
+      'id': 10,
+      'name': '10.Cup',
+      'directory': '10.Cup',
+      'required': True,
+      'rarity_weights': None,
+    },
+  ]
+drop_dup: Fales
+CONFIG_JSON_NAME: "Greek-Mythical-Panda#"
+CONFIG_JSON_URL: "https://ipfs.io/ipfs/Qmd56C6tsi4SAzzMwhZDGogsUAZfzBXd6BX2BX5gmNwhew"
+CONFIG_JSON_DESCRIPTION: "The Greek Mythical Panda is a collection of 100 NFT digital identities with accessory backgrounds generated entirely from random seeds. Let you experience random art."
+
